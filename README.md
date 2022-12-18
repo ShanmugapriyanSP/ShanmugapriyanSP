@@ -3,9 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqPfYnvug2tsgIbm0NAz_LhOSMb_wf_5G8xzE5nMzliots80HtD6FbuGnTwZ0H8JIhXM&usqp=CAU">
 
-- 🔭 I’m preparing for **AWS Developer certification**
+- 🔭 I’m a **AWS certified developer associate**
 
 - 🌱 I’m currently learning **Blockchain/Web3**
+
+- 👯 I’m looking to collaborate on **Blockhain projects**
 
 
 <h3 align="left">Connect with me:</h3>
