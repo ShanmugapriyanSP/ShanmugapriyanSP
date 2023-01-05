@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqPfYnvug2tsgIbm0NAz_LhOSMb_wf_5G8xzE5nMzliots80HtD6FbuGnTwZ0H8JIhXM&usqp=CAU">
 
-- 🔭 I’m a **AWS certified developer associate**
+- 🔭 **Certified AWS Developer Associate**
 
 - 🌱 I’m currently learning **Blockchain/Web3**
 
