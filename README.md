@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shanmugapriyan</h1>
-<h4 align="justify">I am a Java/Python developer at Comcast. We deliver bespoke integration with the Cloud Video Platform (CVP). CVP is a suite of services to aid a company in delivering video content to various devices. CVP enables to customize the workflow for transcoding, packaging, and DRM which transforms the protected video content to a multi-rendition manifest file supported for any device to stream the video online. I'm experienced in AWS.  I was previously in Wipro, where I worked in the development of the Spring boot web app which acts as a platform to create test suites and run Integration test, Performance test, UI test & Database testing for the core products delivered in Health Plan Services</h4>
+<h4 align="justify">I am a Python/Java developer at Comcast. We deliver bespoke integration with the Cloud Video Platform (CVP). CVP is a suite of services to aid a company in delivering video content to various devices. CVP enables to customize the workflow for transcoding, packaging, and DRM which transforms the protected video content to a multi-rendition manifest file supported for any device to stream the video online. I'm experienced in AWS.  I was previously in Wipro, where I worked in the development of the Spring boot web app which acts as a platform to create test suites and run Integration test, Performance test, UI test & Database testing for the core products delivered in Health Plan Services</h4>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqPfYnvug2tsgIbm0NAz_LhOSMb_wf_5G8xzE5nMzliots80HtD6FbuGnTwZ0H8JIhXM&usqp=CAU">
 
 - 🔭 **Certified AWS Developer Associate**
-
-- 🌱 I’m currently learning **Blockchain/Web3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
